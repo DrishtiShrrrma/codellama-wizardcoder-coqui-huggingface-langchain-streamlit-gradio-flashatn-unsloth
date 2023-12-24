@@ -4,3 +4,5 @@
 
 
 AWS deployment: https://www.youtube.com/watch?v=a2A_CxrH3Ts
+
+Artcile: https://skanda-vivek.medium.com/deploying-open-source-llms-as-apis-ec026e2187bc 
