@@ -1,4 +1,4 @@
- 
+https://www.google.com/imgres?q=rag%20qdrant%20plaban%20nayak&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A760%2F1*fH4HTUX9BAwNoESphkxKLQ.jpeg&imgrefurl=https%3A%2F%2Fmedium.aiplanet.com%2Funderstanding-and-querying-code-a-rag-powered-approach-b85cf6f30d11&docid=RKg5u0XGJO0dOM&tbnid=lYBrOVq2Jj2DMM&vet=12ahUKEwj-wLizmsSFAxW9xDgGHfRrCKEQM3oECEQQAA..i&w=760&h=417&hcb=2&ved=2ahUKEwj-wLizmsSFAxW9xDgGHfRrCKEQM3oECEQQAA  
 
 rouge + bleu --->  limitations in capturing code correctness
 
